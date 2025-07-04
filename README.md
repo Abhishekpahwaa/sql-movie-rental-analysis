@@ -74,10 +74,15 @@ Below are the key queries and their purpose:
 
 sql_project/                 ← This is the main project folder
 │
+
 ├── create_tables.sql        ← Contains all the SQL commands to create tables
+
 ├── data_cleaning.sql        ← SQL queries to check for nulls and clean the data
+
 ├── analysis_queries.sql     ← SQL queries for all your business insights (10 questions)
+
 ├── ER_diagram.dbml          ← File that have ER diagram (created using dbdiagram.io)
+
 └── README.md                ← A markdown file that explains your project 
 
 
