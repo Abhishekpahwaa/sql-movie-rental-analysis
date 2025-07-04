@@ -73,6 +73,7 @@ Below are the key queries and their purpose:
 ## 📁 Folder Structure
 
 sql_project/                 ← This is the main project folder
+
 │
 
 ├── create_tables.sql        ← Contains all the SQL commands to create tables
